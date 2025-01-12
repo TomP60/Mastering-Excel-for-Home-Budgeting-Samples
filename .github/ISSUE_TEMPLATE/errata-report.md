@@ -9,12 +9,15 @@ assignees: TomP60
 **Description of the Issue:**
 (Provide a clear and concise description of the error or issue.)
 
-**Location of the Issue:**
+## **Location of the Issue:**
 - Chapter or Section: 
 - Page Number (if applicable): 
 
-**Proposed Correction:**
+## **Proposed Correction:**
 (If possible, provide a correction or suggestion for resolving the issue.)
 
-**Additional Context:**
+## **Additional Context:**
 (Add any other context or screenshots about the problem here.)
+
+
+

@@ -18,8 +18,9 @@ This repository provides:
 
 The repository is structured to align with the chapters of the book:
 
+---
 
-## Reporting Errors or Providing Feedback
+## **Reporting Errors or Providing Feedback**
 If you find any errors or inconsistencies in the book or sample files, we encourage you to report them here. You can:
 
 1. Open an issue in this repository by clicking on the [Issues](https://github.com/TomP60/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
@@ -29,3 +30,5 @@ If you find any errors or inconsistencies in the book or sample files, we encour
    - Any suggestions or corrections (if applicable).
 
 We value your feedback and will address reported issues promptly.
+
+---
