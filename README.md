@@ -1,6 +1,3 @@
-Here’s the updated **README.md** file with the section on handling errors and feedback formatted correctly:
-
-```markdown
 # Mastering Excel for Home Budgeting - Sample Files
 
 Welcome to the **Mastering Excel for Home Budgeting - Sample Files** repository!  
