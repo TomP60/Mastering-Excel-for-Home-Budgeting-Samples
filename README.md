@@ -1,7 +1,11 @@
 # Mastering Excel for Home Budgeting - Sample Files
 
 Welcome to the **Mastering Excel for Home Budgeting - Sample Files** repository!  
-This repository contains publicly available sample files that complement the book *Mastering Excel for Home Budgeting*. These files are designed to enhance your learning experience as you progress through the chapters.
+This repository contains publicly available sample files that complement the book 
+
+*Mastering Excel for Home Budgeting*. 
+
+These files are designed to enhance your learning experience as you progress through the chapters.
 
 ---
 
@@ -20,9 +24,13 @@ The repository is structured to align with the chapters of the book:
 
 ```
 Root Folder/
-├── Chapter_1/
-├── Chapter_2/
-├── Chapter_3/
+├── Introduction_to_Microsoft_Excel/
+├── Creating_Workbooks_and_Worksheets/
+├── Basic_Formulas_and_Functions/
+├── Advanced_Formulas_and_Data_Analysis/
+├── Modifying_and_Enhancing_Worksheets/
+├── Security_and_Protection/
+├── Creating_and_Organizing_the_Home_Budget_Workbook/
 ├── Resources/
 ├── VBA_Code/
 └── Errata/
@@ -64,8 +72,3 @@ We look forward to hearing from you!
 
 ---
 
-## **Contact**
-
-For any questions or additional support, you can reach out via the publisher’s website or email provided in the book.
-
----
