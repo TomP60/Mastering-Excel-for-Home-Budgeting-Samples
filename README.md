@@ -24,6 +24,7 @@ This repository provides:
 
 The repository is organized as follows:
 
+```
 Root Folder/
 ├── Sample_Files/
 ├── Macros/
@@ -32,7 +33,7 @@ Root Folder/
 ├── Templates/
 ├── Resources/
 └── Errata/
-
+```
 ---
 
 ## Reporting Errors or Providing Feedback
