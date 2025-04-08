@@ -1,74 +1,62 @@
-# Mastering Excel for Home Budgeting - Sample Files
+Mastering Excel for Home Budgeting — Sample Files
+Welcome to the Mastering Excel for Home Budgeting - Sample Files repository!
+This repository contains sample files that complement the book:
+Mastering Excel for Home Budgeting by Thomas W. Pettit.
 
-Welcome to the **Mastering Excel for Home Budgeting - Sample Files** repository!  
-This repository contains publicly available sample files that complement the book 
+These resources are designed to enhance your learning experience as you work through the chapters.
 
-*Mastering Excel for Home Budgeting*. 
-
-These files are designed to enhance your learning experience as you progress through the chapters.
-
----
-
-## **About This Repository**
-
+📚 About This Repository
 This repository provides:
-- Sample Excel workbooks and worksheets for various chapters.
-- Step-by-step examples and practice files.
-- Resources that help you create and customize your own home budget application.
 
----
+Sample Excel and LibreOffice workbooks for various chapters
 
-## **Folder Structure**
+Step-by-step examples and practice files
 
-The repository is structured to align with the chapters of the book:
+Ready-to-use templates
 
-```
+Macros for Excel VBA and LibreOffice BASIC (where applicable)
+
+Additional resources to help you create and customize your own home budget system
+
+📂 Folder Structure
+graphql
+Copy
+Edit
 Root Folder/
-├── Introduction_to_Microsoft_Excel/
-├── Creating_Workbooks_and_Worksheets/
-├── Basic_Formulas_and_Functions/
-├── Advanced_Formulas_and_Data_Analysis/
-├── Modifying_and_Enhancing_Worksheets/
-├── Security_and_Protection/
-├── Creating_and_Organizing_the_Home_Budget_Workbook/
-├── Resources/
-├── VBA_Code/
-└── Errata/
+├── Sample_Files/           # Sample Excel or LibreOffice files organized by chapter
+├── Macros/                 # Separate macros for Excel (VBA) and LibreOffice (BASIC)
+│    ├── Excel_VBA/
+│    └── LibreOffice_BASIC/
+├── Templates/              # Starter templates you can use
+├── Resources/              # Extra resources (e.g., images, example data)
+├── Errata/                 # Corrections and updates (only if critical)
+🛠️ About Macros
+This book primarily uses VBA macros for Microsoft Excel (.xlsm files).
+LibreOffice users will find adapted macros written in LibreOffice BASIC.
 
-```
+Macros are optional — you can either use the provided macros, or manually follow the steps if you prefer.
 
----
+📣 Reporting Errors or Issues
+If you find critical errors in the book or files (e.g., something that prevents progress), you are welcome to report it:
 
-## **Reporting Errors or Providing Feedback**
+Open an Issue on this GitHub repository.
 
-We strive to provide accurate and high-quality material, but errors can happen. If you find any mistakes or have suggestions for improvement, we want to hear from you!
+Please include:
 
-### **How to Report Errors or Feedback**
-1. Open an issue in this repository by clicking on the [Issues](https://github.com/TomP60/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
-2. Provide as much detail as possible, including:
-   - The chapter or section where the issue was found.
-   - A clear description of the problem or suggestion.
-   - If applicable, steps to reproduce the issue.
-   - Any proposed solutions or recommendations.
+The chapter/section name
 
-### **How We Handle Your Reports**
-- **Critical Errors**: Issues that significantly impact the usability or accuracy of the material will be prioritized for immediate correction. Updated files will be uploaded as soon as possible.
-- **Non-Critical Errors**: Minor corrections, such as typos or formatting issues, will be noted and included in the next scheduled update or release.
-- **Feedback and Suggestions**: All feedback will be reviewed and considered for inclusion in future editions of the book or repository updates. Suggestions for improvement are always welcome!
+A brief description of the problem
 
-### **Transparency**
-You can track the progress of reported issues under the [Issues](https://github.com/TomP60/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab to see how they are being addressed.
+Any suggested correction (if known)
 
----
+🔔 Note: Only critical updates (e.g., errors that break functionality) will be addressed promptly. Minor typos, formatting differences, or feature requests may be noted for future editions but may not receive immediate updates.
 
-## **Have Questions?**
+📖 Book Information
+Mastering Excel for Home Budgeting is available on Amazon and other major retailers.
+(📚 Book purchase links will be added here after publication.)
 
-Need help with the book or sample files? Visit our [GitHub Discussions](https://github.com/TomP60/Mastering-Excel-for-Home-Budgeting-Samples/discussions) to:
-- Ask questions about the book or resources.
-- Share your insights and feedback.
-- Engage with other readers.
+✅ Thank You for Reading!
+Happy budgeting and spreadsheet building! 🚀
+We hope this project helps you master Excel (or LibreOffice) for better financial management.
 
-We look forward to hearing from you!
-
----
-
+🚀 (End of README)
