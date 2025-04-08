@@ -20,22 +20,15 @@ This repository provides:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure and Descriptions
 
-📂 Root Folder
-- 📁 Sample_Files
-- 📁 Macros
-  - 📁 Excel_VBA
-  - 📁 LibreOffice_BASIC
-- 📁 Templates
-- 📁 Resources
-  - 📁 Charts_and_Graphs
-  - 📁 Course_Images
-  - 📁 Formatting_Guides
-  - 📁 Reference_Documents
-- 📁 Errata
-
-
+- 📁 **Sample_Files** — Example workbooks created while working through the book (Excel and LibreOffice formats).
+- 📁 **Macros**
+  - 📄 **Excel_VBA** — VBA macros for Microsoft Excel (.xlsm format).
+  - 📄 **LibreOffice_BASIC** — Adapted LibreOffice BASIC macros for LibreOffice Calc (.ods format).
+- 📁 **Templates** — Pre-built worksheet templates for quick setup (blank budgeting layouts, sample structures).
+- 📁 **Resources** — Helpful extras like cheat sheets, formatting guides, charts, and images.
+- 📁 **Errata** — Corrections and updates reported after book publication.
 
 ---
 
