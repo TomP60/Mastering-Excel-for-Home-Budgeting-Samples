@@ -19,7 +19,6 @@ This repository provides:
 - 📚 Resources that help you create and customize your own home budget application.
 
 ---
-
 ## 📂 Folder Structure and Descriptions
 
 - 📁 **Sample_Files** — Example workbooks created while working through the book (Excel and LibreOffice formats).
@@ -27,7 +26,11 @@ This repository provides:
   - 📄 **Excel_VBA** — VBA macros for Microsoft Excel (.xlsm format).
   - 📄 **LibreOffice_BASIC** — Adapted LibreOffice BASIC macros for LibreOffice Calc (.ods format).
 - 📁 **Templates** — Pre-built worksheet templates for quick setup (blank budgeting layouts, sample structures).
-- 📁 **Resources** — Helpful extras like cheat sheets, formatting guides, charts, and images.
+- 📁 **Resources** — Helpful extras and references:
+  - 📄 **Charts_and_Graphs** — Example images and guidance for creating charts.
+  - 📄 **Course_Images** — Images used throughout the book’s tutorials.
+  - 📄 **Formatting_Guides** — Quick guides for formatting spreadsheets professionally.
+  - 📄 **Reference_Documents** — External resources and links for further learning.
 - 📁 **Errata** — Corrections and updates reported after book publication.
 
 ---
