@@ -20,16 +20,21 @@ This repository provides:
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
 📂 Root Folder
 - 📁 Sample_Files
 - 📁 Macros
-  - 📄 Excel_VBA
-  - 📄 LibreOffice_BASIC
+  - 📁 Excel_VBA
+  - 📁 LibreOffice_BASIC
 - 📁 Templates
 - 📁 Resources
+  - 📁 Charts_and_Graphs
+  - 📁 Course_Images
+  - 📁 Formatting_Guides
+  - 📁 Reference_Documents
 - 📁 Errata
+
 
 
 ---
