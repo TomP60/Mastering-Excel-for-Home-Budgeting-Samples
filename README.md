@@ -12,11 +12,11 @@ These files are designed to enhance your learning experience as you progress thr
 ## About This Repository
 
 This repository provides:
-- Sample Excel and LibreOffice workbooks for various chapters.
-- Step-by-step examples and practice files.
-- Ready-to-use templates.
-- Macros for Excel (VBA) and LibreOffice (BASIC).
-- Resources that help you create and customize your own home budget application.
+- 📄 Sample Excel and LibreOffice workbooks for various chapters.
+- 🛠️ Step-by-step examples and practice files.
+- 🧩 Ready-to-use templates.
+- ⚙️ Macros for Excel (VBA) and LibreOffice (BASIC).
+- 📚 Resources that help you create and customize your own home budget application.
 
 ---
 
@@ -25,15 +25,9 @@ This repository provides:
 The repository is organized as follows:
 
 ```
-Root Folder/
-├── Sample_Files/
-├── Macros/
-│    ├── Excel_VBA/
-│    └── LibreOffice_BASIC/
-├── Templates/
-├── Resources/
-└── Errata/
+Root Folder/ ├── 📄 Sample_Files/ ├── ⚙️ Macros/ │ ├── 📄 Excel_VBA/ │ └── 📄 LibreOffice_BASIC/ ├── 🧩 Templates/ ├── 📚 Resources/ └── 🐞 Errata/
 ```
+
 ---
 
 ## Reporting Errors or Providing Feedback
@@ -59,8 +53,8 @@ You can track the progress of reported issues under the [Issues](https://github.
 
 ## Important Notes about Macros
 
-- Macros provided for Microsoft Excel are written in **VBA** (.xlsm files).
-- Adapted macros for LibreOffice Calc are written in **LibreOffice BASIC** (.ods files where possible).
+- ⚙️ Macros provided for Microsoft Excel are written in **VBA** (.xlsm files).
+- ⚙️ Adapted macros for LibreOffice Calc are written in **LibreOffice BASIC** (.ods files where possible).
 - LibreOffice users: please use the versions provided under the **LibreOffice_BASIC** folder.
 - Macros are optional — users can also manually follow the steps described in the book.
 
@@ -71,3 +65,4 @@ You can track the progress of reported issues under the [Issues](https://github.
 We appreciate your interest in *Mastering Excel for Home Budgeting* and hope you enjoy building your personalized budgeting system!
 
 ---
+
