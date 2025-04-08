@@ -33,8 +33,6 @@ Root Folder/
 ├── Resources/
 └── Errata/
 
-
-
 ---
 
 ## Reporting Errors or Providing Feedback
