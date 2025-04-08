@@ -24,7 +24,15 @@ This repository provides:
 
 The repository is organized as follows:
 
-Root Folder/ ├── Sample_Files/ ├── Macros/ │ ├── Excel_VBA/ │ └── LibreOffice_BASIC/ ├── Templates/ ├── Resources/ └── Errata/
+Root Folder/
+├── Sample_Files/
+├── Macros/
+│    ├── Excel_VBA/
+│    └── LibreOffice_BASIC/
+├── Templates/
+├── Resources/
+└── Errata/
+
 
 
 ---
